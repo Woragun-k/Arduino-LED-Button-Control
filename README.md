@@ -43,6 +43,9 @@ second button, between 1s on/off and 2s on/off.
 - LED + 220Ω resistor
 - Push button x2
 - Breadboard
+- 
+## Wiring Diagram
+![Wiring Diagram](Wiring.png)
 
 ## Key Concepts
 
